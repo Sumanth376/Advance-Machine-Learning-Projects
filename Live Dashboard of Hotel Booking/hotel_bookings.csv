@@ -1,0 +1,29 @@
+booking_time,hotel,room_type,price_per_night,nights,guests,channel,status,customer_age,payment_method,country,is_repeat_guest
+2025-04-14 20:14:43,City Center Hotel,Suite,477.69,3,3,Phone,Confirmed,61,UPI,Germany,True
+2025-04-14 20:14:45,The Grand Inn,Suite,141.77,7,4,Website,Confirmed,24,PayPal,USA,True
+2025-04-14 20:14:48,Mountain Lodge,Suite,263.2,5,3,Phone,Pending,18,Credit Card,USA,True
+2025-04-14 20:14:50,Ocean View Resort,Suite,54.07,2,3,Website,Confirmed,49,Credit Card,India,True
+2025-04-14 20:14:52,Mountain Lodge,Suite,495.67,6,1,App,Confirmed,60,PayPal,India,True
+2025-04-14 20:14:54,Mountain Lodge,Suite,303.01,3,3,Phone,Cancelled,59,PayPal,Germany,True
+2025-04-14 20:14:56,Ocean View Resort,Deluxe,282.4,6,1,Website,Confirmed,30,Credit Card,UK,True
+2025-04-14 20:14:58,City Center Hotel,Standard,202.1,5,2,Website,Pending,48,UPI,UK,True
+2025-04-14 20:15:00,Mountain Lodge,Deluxe,403.18,4,1,Phone,Confirmed,34,UPI,India,True
+2025-04-14 20:15:02,Mountain Lodge,Standard,298.61,5,1,Phone,Cancelled,40,Credit Card,India,False
+2025-04-14 20:15:04,City Center Hotel,Deluxe,480.77,6,3,App,Pending,18,Credit Card,Australia,False
+2025-04-14 20:15:07,Ocean View Resort,Standard,51.57,2,1,Website,Confirmed,38,Credit Card,USA,True
+2025-04-14 20:15:09,The Grand Inn,Standard,480.76,6,2,Phone,Confirmed,59,PayPal,Canada,False
+2025-04-14 20:15:11,Mountain Lodge,Standard,370.97,4,4,Website,Cancelled,46,PayPal,UK,False
+2025-04-14 20:15:13,City Center Hotel,Standard,254.81,6,2,Website,Confirmed,44,UPI,Germany,False
+2025-04-14 20:15:15,City Center Hotel,Suite,290.9,7,4,Phone,Confirmed,50,Credit Card,USA,True
+2025-04-14 20:15:17,Ocean View Resort,Deluxe,325.69,4,4,App,Confirmed,25,Net Banking,USA,False
+2025-04-14 20:15:20,City Center Hotel,Suite,450.44,5,4,Website,Confirmed,46,UPI,Germany,True
+2025-04-14 20:15:22,City Center Hotel,Suite,234.53,6,2,Website,Confirmed,61,PayPal,Canada,True
+2025-04-14 20:15:24,Ocean View Resort,Suite,256.15,3,1,Phone,Cancelled,61,PayPal,UK,False
+2025-04-14 20:15:26,City Center Hotel,Deluxe,432.06,3,1,Website,Confirmed,43,Credit Card,Australia,True
+2025-04-14 20:15:28,Ocean View Resort,Suite,70.65,2,4,Phone,Confirmed,55,Credit Card,Canada,False
+2025-04-14 20:15:30,City Center Hotel,Deluxe,475.43,1,3,Website,Cancelled,46,UPI,Germany,False
+2025-04-14 20:15:32,Mountain Lodge,Deluxe,318.6,2,2,Phone,Confirmed,52,Net Banking,India,True
+2025-04-14 20:15:34,Mountain Lodge,Suite,289.37,5,1,Phone,Confirmed,40,Net Banking,Australia,True
+2025-04-14 20:15:36,Mountain Lodge,Suite,350.68,3,3,Website,Confirmed,31,Credit Card,India,False
+2025-04-14 20:15:38,The Grand Inn,Suite,139.78,7,4,Phone,Confirmed,44,Net Banking,Canada,False
+2025-04-14 20:15:40,Mountain Lodge,Standard,367.25,1,4,Phone,Cancelled,20,UPI,USA,False
